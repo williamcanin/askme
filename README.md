@@ -16,7 +16,7 @@ Confira o filtro de [Issue Closed](https://github.com/williamcanin/askme/issues?
 
 ### Página pessoal
 
-Você pode navegar em minha [página pessoal](williamcanin.github.io) e encontrar alguma informações para ter uma visão ampla de assuntos dominados por mim, e assim realizar a questão no mesmo patamar.
+Você pode navegar em minha [página pessoal](http://williamcanin.github.io) e encontrar alguma informações para ter uma visão ampla de assuntos dominados por mim, e assim realizar a questão no mesmo patamar.
 
 
 William Canin - Copyright (c) 2018 All Rights Reserved.
