@@ -3,7 +3,7 @@
 # Ask @williamcanin anything!
 
 This is a small, quick "**ask me anything**" repository.
-The interesting thing is to ask questions about programming and technological culture. If you have any technical problems with projects on my [GitHub] (https://github.com/williamcanin), I recommend making a *Issue* in the project's own repository.
+The interesting thing is to ask questions about programming and technological culture. If you have any technical problems with projects on my [GitHub](https://github.com/williamcanin), I recommend making a *Issue* in the project's own repository.
 
 ### Ask a question
 
