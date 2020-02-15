@@ -1,3 +1,5 @@
+[Read in English](https://github.com/williamcanin/askme/blob/master/README-en.md)
+
 # Pergunte ao @williamcanin qualquer coisa!
 
 Este é um pequeno e rápido tipo de repositório de "**pergunte-me qualquer coisa**".
@@ -5,11 +7,11 @@ O interessante é fazer perguntas sobre programação e a cultura tecnológica. 
 
 ### Faça uma pergunta
 
-Fazer uma pergunta é tão fácil como criar uma "issue" em um projeto.
+Fazer uma pergunta é tão fácil como criar uma "*issue*" em um projeto.
 
 <h1 align="center">
   <a href="https://github.com/williamcanin/askme/issues/new">
-    <img alt="ask me" src="https://raw.githubusercontent.com/williamcanin/askme/master/.github/ask_me.jpg" width="226">
+    <img alt="Pergunte!" src="https://raw.githubusercontent.com/williamcanin/askme/master/.github/ask_me_pt.jpg" width="226">
   </a>
 </h1>
 
@@ -25,4 +27,4 @@ Confira o filtro de [Issue Closed](https://github.com/williamcanin/askme/issues?
 Você pode navegar em minha [página pessoal](http://williamcanin.github.io) e encontrar alguma informações para ter uma visão ampla de assuntos dominados por mim, e assim realizar a questão no mesmo patamar.
 
 
-William Canin - Copyright (c) 2018-2020 All Rights Reserved.
+William Canin - Copyright (c) 2018-2020 Todos os direitos reservados.
