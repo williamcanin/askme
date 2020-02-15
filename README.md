@@ -5,7 +5,7 @@ O interessante é fazer perguntas sobre programação e a cultura tecnológica. 
 
 ### Faça uma pergunta
 
-Fazer uma pergunta é tão fácil como [criar uma nova questão](https://github.com/williamcanin/askme/issues/new) neste projeto.
+Fazer uma pergunta é tão fácil como criar uma "issue" em um projeto.
 
 <h1 align="center">
   <a href="https://github.com/williamcanin/askme/issues/new">
