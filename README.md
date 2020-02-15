@@ -7,6 +7,12 @@ O interessante é fazer perguntas sobre programação e a cultura tecnológica. 
 
 Fazer uma pergunta é tão fácil como [criar uma nova questão](https://github.com/williamcanin/askme/issues/new) neste projeto.
 
+<h1 align="center">
+  <a href="https://github.com/williamcanin/askme/issues/new">
+    <img alt="ask me" src="https://raw.githubusercontent.com/williamcanin/askme/master/.github/ask_me.jpg" width="226">
+  </a>
+</h1>
+
 Vou tentar responder assim que puder. Uma vez que eu respondo, vou fechar o problema apenas para ter o controle do mesmo, mas não se preocupe, se você tiver mais dúvidas, responda no tópico e vou voltar para você em breve. Sinta-se a vontade para fazer uma pergunta sobre qualquer ideia. Podemos trocar conhecimentos!
 
 ### Leia algumas perguntas
