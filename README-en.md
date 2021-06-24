@@ -27,4 +27,4 @@ Check the filter [Issue Closed](https://github.com/williamcanin/askme/issues?q=i
 You can browse my [personal page](http://williamcanin.github.io) (in Portuguese) and find some information to have a broad view of subjects dominated by me, and thus carry out the question at the same level.
 
 
-William Canin - Copyright (c) 2018-2020 All Rights Reserved.
+William Canin - Copyright (c) 2018 All Rights Reserved.
