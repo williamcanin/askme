@@ -27,4 +27,4 @@ Confira o filtro de [Issue Closed](https://github.com/williamcanin/askme/issues?
 Você pode navegar em minha [página pessoal](http://williamcanin.github.io) e encontrar alguma informações para ter uma visão ampla de assuntos dominados por mim, e assim realizar a questão no mesmo patamar.
 
 
-William Canin - Copyright (c) 2018-2020 Todos os direitos reservados.
+William Canin - Copyright (c) 2018 Todos os direitos reservados.
