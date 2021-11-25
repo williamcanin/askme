@@ -3,7 +3,7 @@
 # Ask @williamcanin anything!
 
 This is a small, quick "**ask me anything**" repository.
-The interesting thing is to ask questions about programming and technological culture. If you have any technical problems with projects on my [GitHub](https://github.com/williamcanin), I recommend making a *Issue* in the project's own repository.
+The interesting thing is to ask questions about programming and technological culture. If you have any technical problems with projects on my [GitHub](https://github.com/williamcanin), I recommend making a *Issue* in the project's own repository. If you want to participate in any project [my](https://github.com/williamcanin) here on GitHub, you can open an *Issue* here for contact.
 
 ### Ask a question
 
@@ -27,4 +27,4 @@ Check the filter [Issue Closed](https://github.com/williamcanin/askme/issues?q=i
 You can browse my [personal page](http://williamcanin.github.io) (in Portuguese) and find some information to have a broad view of subjects dominated by me, and thus carry out the question at the same level.
 
 
-William Canin - Copyright (c) 2018 All Rights Reserved.
+William Canin - Copyright (c) 2021 All Rights Reserved.
